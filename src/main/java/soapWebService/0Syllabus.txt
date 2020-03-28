@@ -1,0 +1,42 @@
+01 - Initialize a Spring Web Services application with Spring Boot
+02 - Overview of creating SOAP Web Service using Contract First Approach
+03 - Define Request and Response XML Structure
+04 - Define XML Schema Definition (XSD) for Request - GetCourseDetailsRequest
+05 - Define XML Schema Definition (XSD) for Respone - GetCourseDetailsResponse
+06 - More about XML Schema Definition and Implementing XSD Best Practices
+07 - Introduction to Java API for XML Binding (JAXB) and Configuring JAXB 2 Maven Plugin
+08 - Configuring an Endpoint for GetCourseDetailsRequest
+09 - Spring Web Services Configuration - Message Dispatcher Servlet
+10 - Spring Web Services Configuration - Generating WSDL
+11 - Using Wizdler to execute SOAP Requests
+12 - Implementing a service - Course Details Service - backend with in memory array list
+13 - Implementing SOAP Web Service for GetAllCourseDetailsRequest
+14 - Quick introduction to different parts of a WSDL
+15 - Implementing SOAP Web Service for DeleteCourseDetailsRequest
+16 - Improving the DeleteCourseDetailsRequest - Using an Enum for Status
+17 - Exception Handling and SOAP Fault Responses
+18 - Implementing Security for SOAP Web Services with WS Security
+
+
+What we will Learn?
+What is a SOAP Web Service?
+What is WSDL (Web Service Definition Language)?
+What is SOAP Header, SOAP Body and SOAP Fault?
+What is an XSD (XML Schema Definition)?
+How to write an XSD for your requests and responses?
+What is JAXB (Java API for XML Binding)?
+What is an Endpoint?
+What is a Contract First approach?
+What are the different steps in building SOAP Web Services with Spring Web Services & Spring Boot?
+How to build different SOAP Web services for GetCourseDetailsRequest, GetAllCourseDetailsRequest and DeleteCourseDetailsRequest?
+How to use Wizdler to execute SOAP Requests?
+How to implement exception handling for SOAP Web Services?
+How to implement basic security with WS Security for SOAP Web Services?
+Wizdler Chrome Plugin
+
+Useful Links
+XML Schema - http://edutechwiki.unige.ch/en/XML_Schema_tutorial_-_Basics
+WSDL URl - http://localhost:8080/ws/courses.wsdl
+Spring Web Services - http://projects.spring.io/spring-ws/
+
+
